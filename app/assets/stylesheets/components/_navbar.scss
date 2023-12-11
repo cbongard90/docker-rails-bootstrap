@@ -1,0 +1,12 @@
+.navbar-nullpod {
+  justify-content: space-between;
+  background: white;
+}
+
+.navbar-nullpod .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-nullpod .navbar-brand img {
+  width: 40px;
+}
